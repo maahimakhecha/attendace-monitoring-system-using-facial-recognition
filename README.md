@@ -19,7 +19,7 @@ This project involves the analysis and visualization of a student attendance dat
 ### Project Files
 
   * `attendance monitoring system using face recognition.ipynb`: The main Jupyter notebook containing all the data analysis, preprocessing, and visualization code.
-  * `mini.csv`: The raw dataset containing student attendance and academic information.
+  * `student.csv`: The raw dataset containing student attendance and academic information.
 
 ### Requirements
 
