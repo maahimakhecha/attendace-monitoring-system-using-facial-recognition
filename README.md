@@ -1,4 +1,4 @@
-## Face Recognition Software: Attendance Monitoring System
+## Attendance Monitoring System using Face Recognition
 
 This project implements an attendance monitoring system utilizing face recognition technology. The core of this project focuses on the data analysis and visualization of an attendance dataset, aiming to extract meaningful insights from student attendance records.
 
